@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Cultura",
+        "question": "Qual festival anual é conhecido por suas coloridas procissões de carros alegóricos e escolas de samba no Brasil?",
+        "options": ["A. Dia dos Mortos", "B. Oktoberfest", "C. Carnaval", "D. Hanukkah"],
+        "answer": "C",
+        "explanation": "O Carnaval do Brasil é famoso mundialmente por seus desfiles vibrantes, música e dança, especialmente no Rio de Janeiro e em Salvador.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Idioma",
+        "question": "Qual é o idioma oficial do Japão?",
+        "options": ["A. Mandarim", "B. Coreano", "C. Japonês", "D. Cantonês"],
+        "answer": "C",
+        "explanation": "O japonês é a língua oficial do Japão, falada por mais de 120 milhões de pessoas. É conhecida por seus três sistemas de escrita: Hiragana, Katakana e Kanji.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Sistemas Educacionais",
+        "question": "Como funciona o sistema de educação na Alemanha, especialmente em relação ao ensino superior?",
+        "options": ["A. Predominantemente privado e caro", "B. Gratuito ou com taxas muito baixas, focado em pesquisa", "C. Baseado em um sistema de internatos rígidos", "D. Focado apenas em educação técnica"],
+        "answer": "B",
+        "explanation": "A Alemanha é conhecida por seu sistema de ensino superior de alta qualidade, com muitas universidades públicas que oferecem cursos gratuitos ou com taxas muito baixas, mesmo para estudantes internacionais, e forte ênfase em pesquisa.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cultura",
+        "question": "Quais são as tradições do Dia dos Mortos no México?",
+        "options": ["A. Troca de presentes e árvores decoradas", "B. Desfiles de fantasias assustadoras e doces", "C. Construção de altares, oferendas e visitas a cemitérios", "D. Caça a ovos escondidos e festas familiares"],
+        "answer": "C",
+        "explanation": "O Dia dos Mortos (Día de Muertos) no México é uma celebração colorida e festiva onde as famílias honram e se lembram de seus entes queridos falecidos, construindo altares (ofrendas) com fotos, comidas e bebidas favoritas, e visitando cemitérios.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Idioma",
+        "question": "Qual é a capital da França?",
+        "options": ["A. Londres", "B. Roma", "C. Paris", "D. Berlim"],
+        "answer": "C",
+        "explanation": "Paris é a capital da França e uma das cidades mais visitadas do mundo, famosa por seus marcos como a Torre Eiffel e o Museu do Louvre.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Sistemas Educacionais",
+        "question": "Qual país é conhecido por ter um sistema educacional altamente igualitário e sem mensalidades para estudantes universitários, inclusive para estudantes estrangeiros?",
+        "options": ["A. Estados Unidos", "B. Finlândia", "C. Reino Unido", "D. Austrália"],
+        "answer": "B",
+        "explanation": "A Finlândia é frequentemente citada como um dos países com os melhores sistemas educacionais do mundo, caracterizado pela igualdade, alta qualidade de ensino e ausência de mensalidades em universidades públicas.",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cultura",
+        "question": "Qual é a culinária japonesa famosa por sushi e sashimi?",
+        "options": ["A. Thai Food", "B. Italian Food", "C. Japanese Food", "D. Mexican Food"],
+        "answer": "C",
+        "explanation": "A culinária japonesa é mundialmente reconhecida por pratos como sushi e sashimi, que são exemplos da sua arte culinária e frescor dos ingredientes.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Idioma",
+        "question": "Qual o idioma oficial da Espanha?",
+        "options": ["A. Português", "B. Inglês", "C. Espanhol", "D. Francês"],
+        "answer": "C",
+        "explanation": "O espanhol, ou castelhano, é o idioma oficial da Espanha e um dos idiomas mais falados no mundo, com grande influência na América Latina.",
+        "difficulty": "easy"
+    }
+]

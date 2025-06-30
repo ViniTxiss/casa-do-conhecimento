@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Culture",
+        "question": "Which annual festival is known for its colorful parades and samba schools in Brazil?",
+        "options": ["A. Day of the Dead", "B. Oktoberfest", "C. Carnival", "D. Hanukkah"],
+        "answer": "C",
+        "explanation": "Brazil's Carnival is world-famous for its vibrant parades, music, and dance, especially in Rio de Janeiro and Salvador.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Language",
+        "question": "What is the official language of Japan?",
+        "options": ["A. Mandarin", "B. Korean", "C. Japanese", "D. Cantonese"],
+        "answer": "C",
+        "explanation": "Japanese is the official language of Japan, spoken by over 120 million people. It is known for its three writing systems: Hiragana, Katakana, and Kanji.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Educational Systems",
+        "question": "How does the education system in Germany work, especially concerning higher education?",
+        "options": ["A. Predominantly private and expensive", "B. Free or very low tuition fees, research-focused", "C. Based on a strict boarding school system", "D. Focused only on technical education"],
+        "answer": "B",
+        "explanation": "Germany is known for its high-quality higher education system, with many public universities offering free or very low-cost courses, even for international students, and a strong emphasis on research.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Culture",
+        "question": "What are the traditions of the Day of the Dead in Mexico?",
+        "options": ["A. Gift exchange and decorated trees", "B. Scary costume parades and candies", "C. Building altars, offerings, and visiting cemeteries", "D. Egg hunts and family parties"],
+        "answer": "C",
+        "explanation": "The Day of the Dead (Día de Muertos) in Mexico is a colorful and festive celebration where families honor and remember their deceased loved ones by building altars (ofrendas) with photos, favorite foods and drinks, and visiting cemeteries.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Language",
+        "question": "What is the capital of France?",
+        "options": ["A. London", "B. Rome", "C. Paris", "D. Berlin"],
+        "answer": "C",
+        "explanation": "Paris is the capital of France and one of the most visited cities in the world, famous for its landmarks like the Eiffel Tower and the Louvre Museum.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Educational Systems",
+        "question": "Which country is known for having a highly egalitarian education system with no tuition fees for university students, including international students?",
+        "options": ["A. United States", "B. Finland", "C. United Kingdom", "D. Australia"],
+        "answer": "B",
+        "explanation": "Finland is often cited as one of the countries with the best education systems in the world, characterized by equality, high quality of teaching, and no tuition fees at public universities.",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Culture",
+        "question": "What Japanese cuisine is famous for sushi and sashimi?",
+        "options": ["A. Thai Food", "B. Italian Food", "C. Japanese Food", "D. Mexican Food"],
+        "answer": "C",
+        "explanation": "Japanese cuisine is globally recognized for dishes like sushi and sashimi, which are examples of its culinary art and the freshness of its ingredients.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Language",
+        "question": "What is the official language of Spain?",
+        "options": ["A. Portuguese", "B. English", "C. Spanish", "D. French"],
+        "answer": "C",
+        "explanation": "Spanish, or Castilian, is the official language of Spain and one of the most spoken languages in the world, with great influence in Latin America.",
+        "difficulty": "easy"
+    }
+]

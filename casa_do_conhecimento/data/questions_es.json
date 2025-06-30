@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Cultura",
+        "question": "¿Qué festival anual es conocido por sus coloridas procesiones de carrozas y escuelas de samba en Brasil?",
+        "options": ["A. Día de Muertos", "B. Oktoberfest", "C. Carnaval", "D. Hanukkah"],
+        "answer": "C",
+        "explanation": "El Carnaval de Brasil es mundialmente famoso por sus vibrantes desfiles, música y danza, especialmente en Río de Janeiro y Salvador.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Idioma",
+        "question": "¿Cuál es el idioma oficial de Japón?",
+        "options": ["A. Mandarín", "B. Coreano", "C. Japonés", "D. Cantonés"],
+        "answer": "C",
+        "explanation": "El japonés es el idioma oficial de Japón, hablado por más de 120 millones de personas. Es conocido por sus tres sistemas de escritura: Hiragana, Katakana y Kanji.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Sistemas Educativos",
+        "question": "¿Cómo funciona el sistema educativo en Alemania, especialmente en lo que respecta a la educación superior?",
+        "options": ["A. Predominantemente privado y caro", "B. Gratuito o con tarifas muy bajas, centrado en la investigación", "C. Basado en un sistema de internados estrictos", "D. Centrado únicamente en la educación técnica"],
+        "answer": "B",
+        "explanation": "Alemania es conocida por su sistema de educación superior de alta calidad, con muchas universidades públicas que ofrecen cursos gratuitos o con tarifas muy bajas, incluso para estudiantes internacionales, y un fuerte énfasis en la investigación.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cultura",
+        "question": "¿Cuáles son las tradiciones del Día de Muertos en México?",
+        "options": ["A. Intercambio de regalos y árboles decorados", "B. Desfiles de disfraces aterradores y dulces", "C. Construcción de altares, ofrendas y visitas a cementerios", "D. Búsqueda de huevos escondidos y fiestas familiares"],
+        "answer": "C",
+        "explanation": "El Día de Muertos en México es una celebración colorida y festiva donde las familias honran y recuerdan a sus seres queridos fallecidos, construyendo altares (ofrendas) con fotos, comidas y bebidas favoritas, y visitando cementerios.",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Idioma",
+        "question": "¿Cuál es la capital de Francia?",
+        "options": ["A. Londres", "B. Roma", "C. París", "D. Berlín"],
+        "answer": "C",
+        "explanation": "París es la capital de Francia y una de las ciudades más visitadas del mundo, famosa por sus monumentos como la Torre Eiffel y el Museo del Louvre.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Sistemas Educativos",
+        "question": "¿Qué país es conocido por tener un sistema educativo altamente igualitario y sin tasas de matrícula para estudiantes universitarios, incluso para estudiantes extranjeros?",
+        "options": ["A. Estados Unidos", "B. Finlandia", "C. Reino Unido", "D. Australia"],
+        "answer": "B",
+        "explanation": "Finlandia es frecuentemente citada como uno de los países con los mejores sistemas educativos del mundo, caracterizado por la igualdad, la alta calidad de la enseñanza y la ausencia de tasas de matrícula en las universidades públicas.",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cultura",
+        "question": "¿Cuál es la cocina japonesa famosa por el sushi y el sashimi?",
+        "options": ["A. Comida tailandesa", "B. Comida italiana", "C. Comida japonesa", "D. Comida mexicana"],
+        "answer": "C",
+        "explanation": "La cocina japonesa es mundialmente reconocida por platos como el sushi y el sashimi, que son ejemplos de su arte culinario y la frescura de sus ingredientes.",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Idioma",
+        "question": "¿Cuál es el idioma oficial de España?",
+        "options": ["A. Portugués", "B. Inglés", "C. Español", "D. Francés"],
+        "answer": "C",
+        "explanation": "El español, o castellano, es el idioma oficial de España y uno de los idiomas más hablados en el mundo, con gran influencia en América Latina.",
+        "difficulty": "easy"
+    }
+]
